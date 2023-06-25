@@ -1,4 +1,4 @@
-#Starter kit built with Next 13.4.7 and shadcnui
+# Starter kit built with Next 13.4.7 and shadcnui
 
 _Includes navigation with mobile devices support_
 
